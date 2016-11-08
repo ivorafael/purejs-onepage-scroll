@@ -523,4 +523,4 @@ function onePageScroll(element, options) {
    return orig;
  };
 	
-
+module.exports = onePageScroll;
